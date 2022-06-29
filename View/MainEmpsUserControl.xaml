@@ -1,0 +1,106 @@
+﻿<UserControl x:Class="AutoService.View.MainEmpsUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+             xmlns:local="clr-namespace:AutoService.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="650" d:DesignWidth="850" FontFamily="Roboto">
+    <Grid Height="650" Width="850">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.2*"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <TextBlock Text="Сотрудники"
+                   HorizontalAlignment="Left"
+                   VerticalAlignment="Center"
+                   FontSize="26"
+                   Margin="20,0,0,0"
+                   FontWeight="Light"/>
+        <Border Grid.Row="1"
+                Margin="10"
+                x:Name="reviews"
+                Padding="10"
+                CornerRadius="20"
+                Background="#F8F9FA">
+            <ListBox ItemsSource="{Binding Path=Emps}">
+                <ListBox.ItemContainerStyle>
+                    <Style TargetType="{x:Type ListBoxItem}">
+                        <Setter Property="Template">
+                            <Setter.Value>
+                                <ControlTemplate TargetType="ListBoxItem">
+                                    <Border BorderThickness="3,0,0,3"
+                                                        Padding="{TemplateBinding Control.Padding}"
+                                                        CornerRadius="5"
+                                                        BorderBrush="{TemplateBinding Border.BorderBrush}"
+                                                        Background="Transparent"
+                                                        Name="Bd"
+                                                          SnapsToDevicePixels="True">
+                                        <ContentPresenter Content="{TemplateBinding ContentControl.Content}"
+                               ContentTemplate="{TemplateBinding ContentControl.ContentTemplate}"
+                               ContentStringFormat="{TemplateBinding ContentControl.ContentStringFormat}"
+                               HorizontalAlignment="{TemplateBinding Control.HorizontalContentAlignment}"
+                               VerticalAlignment="{TemplateBinding Control.VerticalContentAlignment}"
+                               SnapsToDevicePixels="{TemplateBinding UIElement.SnapsToDevicePixels}" />
+                                    </Border>
+                                    <ControlTemplate.Triggers>
+                                        <MultiTrigger>
+                                            <MultiTrigger.Conditions>
+                                                <Condition Property="Selector.IsSelectionActive" Value="False"/>
+                                                <Condition Property="Selector.IsSelected" Value="True"/>
+                                            </MultiTrigger.Conditions>
+                                            <Setter Property="Panel.Background" TargetName="Bd" 
+                        Value="Transparent"/>
+                                            <Setter Property="Border.BorderBrush" TargetName="Bd">
+                                                <Setter.Value>
+                                                    <SolidColorBrush>Transparent</SolidColorBrush>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </MultiTrigger>
+                                        <MultiTrigger>
+                                            <MultiTrigger.Conditions>
+                                                <Condition Property="Selector.IsSelectionActive" Value="True"/>
+                                                <Condition Property="Selector.IsSelected" Value="True"/>
+                                            </MultiTrigger.Conditions>
+                                            <Setter Property="Panel.Background" TargetName="Bd" Value="Transparent"/>
+                                            <Setter Property="Border.BorderBrush" TargetName="Bd">
+                                                <Setter.Value>
+                                                    <SolidColorBrush>Transparent</SolidColorBrush>
+                                                </Setter.Value>
+                                            </Setter>
+                                        </MultiTrigger>
+                                        <Trigger Property="UIElement.IsEnabled" Value="False">
+                                            <Setter Property="TextElement.Foreground" TargetName="Bd">
+                                                <Setter.Value>
+                                                    <DynamicResource ResourceKey="{x:Static SystemColors.GrayTextBrushKey}" />
+                                                </Setter.Value>
+                                            </Setter>
+                                        </Trigger>
+                                    </ControlTemplate.Triggers>
+                                </ControlTemplate>
+                            </Setter.Value>
+                        </Setter>
+                    </Style>
+                </ListBox.ItemContainerStyle>
+                <ListBox.ItemTemplate>
+                    <DataTemplate>
+                        <Border Background="#dee2e6" Width="800" Padding="20" BorderThickness="0,0,0,1" BorderBrush="#495057" CornerRadius="10">
+                            <StackPanel Orientation="Horizontal"
+                                        HorizontalAlignment="Stretch">
+                                <StackPanel Orientation="Vertical"
+                                            VerticalAlignment="Center">
+                                    <StackPanel Orientation="Horizontal" Margin="0,0,0,10">
+                                        <TextBlock Text="{Binding Path=Name}" FontSize="20" Margin="0,0,5,0" FontWeight="Light"/>
+                                        <TextBlock Text="{Binding Path=Surname}" FontSize="20" VerticalAlignment="Center" FontWeight="Light"/>
+                                    </StackPanel>
+                                    <TextBlock Text="{Binding Path=Experience, StringFormat='Опыт работы {0} лет'}" FontSize="16" Foreground="#ee9b00" FontWeight="DemiBold"/>
+                                </StackPanel>
+                            </StackPanel>
+                        </Border>
+                    </DataTemplate>
+                </ListBox.ItemTemplate>
+            </ListBox>
+        </Border>
+    </Grid>
+</UserControl>
