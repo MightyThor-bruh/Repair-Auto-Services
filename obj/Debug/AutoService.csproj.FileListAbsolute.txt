@@ -1,0 +1,185 @@
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\AutoService.exe.config
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\AutoService.exe
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\AutoService.pdb
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\EntityFramework.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\EntityFramework.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.csproj.AssemblyReference.cache
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.csproj.SuggestedBindingRedirects.cache
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\Login.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\App.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.cache
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.lref
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\Login.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.g.resources
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.Properties.Resources.resources
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.csproj.GenerateResource.cache
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.csproj.CoreCompileInputs.cache
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.csproj.CopyComplete
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.exe
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.pdb
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\MaterialDesignColors.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\MaterialDesignColors.pdb
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\App.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\Resourses\Dictionary.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\BCrypt.Net-Next.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Buffers.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Memory.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\BCrypt.Net-Next.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Buffers.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Memory.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\Register.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\Register.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Reactive.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Reactive.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainAdmin.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainWindow.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainAdmin.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainWindow.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\EmployeesUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\EmployeesUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\ServicesUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\ServicesUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminOrdersUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminOrdersUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminMakeOrderUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminMakeOrderUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminCarsUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminCarsUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainCustomerUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainCustomerUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Security.Permissions.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Security.Permissions.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Aspose.Imaging.Cloud.Sdk.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Aspose.Imaging.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Aspose.Imaging.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Aspose.Imaging.Cloud.Sdk.pdb
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Aspose.Imaging.Cloud.Sdk.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainOrdersUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainOrdersUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainMakeOrderUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainMakeOrderUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainReviewsUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainReviewsUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminReviewsUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminReviewsUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminCustomersUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\AdminCustomersUserControl.baml
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\AutoService.Migrations.InitialCreate.resources
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainEmpsUserControl.g.cs
+C:\Users\m.samaryn\source\repos\Курсачи\AutoService\AutoService\obj\Debug\View\MainEmpsUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\AutoService.exe.config
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\AutoService.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\AutoService.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Aspose.Imaging.Cloud.Sdk.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Aspose.Imaging.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\BCrypt.Net-Next.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\EntityFramework.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\MaterialDesignColors.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\MaterialDesignThemes.Wpf.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Microsoft.Xaml.Behaviors.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Newtonsoft.Json.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Buffers.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.ComponentModel.Annotations.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Memory.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Numerics.Vectors.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Reactive.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Security.AccessControl.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Security.Permissions.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Security.Principal.Windows.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Aspose.Imaging.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Aspose.Imaging.Cloud.Sdk.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Aspose.Imaging.Cloud.Sdk.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\BCrypt.Net-Next.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\EntityFramework.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\EntityFramework.SqlServer.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\MaterialDesignColors.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\MaterialDesignThemes.Wpf.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\MaterialDesignThemes.Wpf.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Microsoft.Xaml.Behaviors.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\Newtonsoft.Json.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Buffers.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Configuration.ConfigurationManager.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Memory.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Numerics.Vectors.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Reactive.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Security.AccessControl.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Security.Permissions.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Security.Principal.Windows.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.csproj.AssemblyReference.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\Resourses\Dictionary.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminCarsUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminCustomersUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminMakeOrderUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminOrdersUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminReviewsUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\EmployeesUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\Login.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainAdmin.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainCustomerUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainEmpsUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainMakeOrderUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainOrdersUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainReviewsUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainWindow.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\Register.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\ServicesUserControl.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\App.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService_MarkupCompile.lref
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\App.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminCarsUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminCustomersUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminMakeOrderUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminOrdersUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\AdminReviewsUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\EmployeesUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\Login.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainAdmin.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainCustomerUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainEmpsUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainMakeOrderUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainOrdersUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainReviewsUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\MainWindow.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\Register.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\View\ServicesUserControl.baml
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.g.resources
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.Migrations.InitialCreate.resources
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.Properties.Resources.resources
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.csproj.GenerateResource.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.csproj.CoreCompileInputs.cache
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.csproj.CopyComplete
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.exe
+D:\Стандартные папки\Рабочий стол\У(ч)ёба\Курсовые\ООП\AutoService_App\AutoService\AutoService\obj\Debug\AutoService.pdb
