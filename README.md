@@ -18,7 +18,4 @@ Manual <br />
 - In app.config file change server name to your own server name <br />
 - Do 'update-database' <br />
 That's it! Now you can start the Repair Auto Services. <br />
->
->
->
-P.S. If you have any questions or suggestions don't contact me, I'm not a programmer. Better buy my art works on DeviantArt and Tumblr. Thanks c:
+
